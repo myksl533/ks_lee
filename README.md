@@ -2,8 +2,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: myksl533@gmail.com 
-&nbsp;&nbsp; 📲 +65-81073531
+✉️: myksl533@XXXXXXX.com 
+&nbsp;&nbsp; 📲 +65-XXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kasinglee) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
